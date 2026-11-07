@@ -1,0 +1,24 @@
+# Private vendor inputs, generated files and signing material
+/work/
+/dist/
+/tools/
+*.apk
+*.apks
+*.aab
+*.dex
+*.jar
+*.p12
+*.jks
+*.keystore
+*.idsig
+keystore-password.txt
+.env
+.env.*
+*.log
+*.jpg
+*.jpeg
+*.png
+*.pcm
+*.wav
+*.xml
+*.zip
